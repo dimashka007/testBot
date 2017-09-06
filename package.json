@@ -1,0 +1,22 @@
+{
+  "name": "testbot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dimashka007/testBot.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dimashka007/testBot/issues"
+  },
+  "homepage": "https://github.com/dimashka007/testBot#readme",
+  "dependencies": {
+    "htmlparser2": "^3.9.2"
+  }
+}
