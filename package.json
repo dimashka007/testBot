@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/dimashka007/testBot#readme",
   "dependencies": {
-    "htmlparser2": "^3.9.2"
+    "htmlparser2": "^3.9.2",
+    "node-telegram-bot-api": "^0.28.0"
   }
 }
